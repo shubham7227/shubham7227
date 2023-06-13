@@ -1,4 +1,9 @@
-### Hi there 👋
+
+# Hi 👋 I am Sulav! 
+I am a Full-stack developer.
+
+- 🌐 Visit my [portfolio website](https://sulavgiri.com.np/) for more information and to get in touch.
+- 👋 Connect with me on [Linkedin](https://www.linkedin.com/in/sulav-giri-945870202/).
 
 <!--
 **shubham7227/shubham7227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
